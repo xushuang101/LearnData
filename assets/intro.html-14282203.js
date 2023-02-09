@@ -1,0 +1,1 @@
+import{ad as e,H as t,I as o,F as n}from"./framework-0d2eacdd.js";const c={},s=n("p",null,"热爱马拉松，待更新。",-1),_=[s];function r(a,l){return t(),o("div",null,_)}const d=e(c,[["render",r],["__file","intro.html.vue"]]);export{d as default};
