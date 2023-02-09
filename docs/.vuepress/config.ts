@@ -14,7 +14,7 @@ export default defineUserConfig({
   title: "Joshua",
   // 网站描述
   description:
-    "Joshua的笔记，欢迎交流！！",
+    "Joshua的笔记，欢迎交流！！！",
 
   // 网站路径默认为主域名。如果网站部署在子路径下，比如 xxx.com/yyy，那么 base 应该被设置为 "/yyy/"
   base: "/",
